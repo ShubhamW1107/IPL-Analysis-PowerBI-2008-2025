@@ -95,4 +95,5 @@ Tracks variation in venue usage across seasons.<br>
 Transforms granular cricket data into actionable insights.<br>
 6️⃣ Screenshot of Dashboard <br>
 
-![Overview Dashboard][https://github.com/ShubhamW1107/IPL-Analysis-PowerBI-2008-2025/blob/main/IPL-Analysis-PowerBI-2008-2025.jpg]<br>
+![Overview Dashboard](https://github.com/ShubhamW1107/IPL-Analysis-PowerBI-2008-2025/blob/main/IPL-Analysis-PowerBI-2008-2025.jpg)<br>
+
